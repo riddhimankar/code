@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 18 10:37:18 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0162-d726-5969-000012708000 
+on database directory memory:C:\cicd-workspace\catalogue\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/wiproadmin/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\cicd-workspace\catalogue
+os.name=Windows Server 2012 R2
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
